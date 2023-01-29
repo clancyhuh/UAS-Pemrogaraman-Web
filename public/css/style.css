@@ -1,0 +1,13 @@
+.sampul {
+    width: 150px;
+    height: 170px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+
+.agung {
+    width: 100px;
+}
+
